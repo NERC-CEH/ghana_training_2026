@@ -52,8 +52,7 @@ To run the training notebooks using *Google Colab*, follow these steps:
 This series of different interactive workshops is designed to introduce participants to data-driven approaches in hydrological science. Each session focuses on a specific aspect of working with hydrological data, from modelling concepts to accessing, exploring, and applying datasets in research contexts.
 
 ### Agenda
-|  | 27 January 2026 Tuesday Theme: Hydrological Datasets | 28 January 2026 Wednesday Theme: Water Resources Modelling | 29 January 2026 Thursday Theme: Seasonal Forecast Applications |
-|  | Theme: Hydrological Datasets | Wednesday Theme: Water Resources Modelling | Thursday Theme: Seasonal Forecast Applications |
+| | 27 January 2026 <br> Theme: Hydrological Datasets </br> | 28 January 2026 <br> Theme: Water Resources Modelling </br> | 29 January 2026 <br> Theme: Seasonal Forecast Applications </br> |
 | --- | --- | --- | --- |
 | 09:00 - 10:00 | Registration, Welcome & Introduction | Talk: Introduction to Machine Learning (ML) based modelling | Talk: Introduction to Applications |
 | 10:00 - 11:00 | Hands-on: Computing setup and testing | Workshop: ML-based water resource modelling | Workshop: Catchment-based seasonal hydrological forecasting |
