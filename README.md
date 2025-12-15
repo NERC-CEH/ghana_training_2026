@@ -1,7 +1,8 @@
 # UKCEH West Africa Hydrological Forecasting Training Workshop 2026
 <p align="center">
-  <img width="865" height="112" alt="image" src="https://github.com/user-attachments/assets/3603864a-66e1-4c62-a9c1-9f85e0943865" />
+  <img width="865" height="112" alt="image" src="https://github.com/eugmag/ghana_training_2026/blob/main/content/Logo.png" />
 </p>
+
 Welcome to the repository for scripts and data for the UKCEH West Africa Hydrological Forecasting Training Workshop 2026.
 
 This series of hands-on workshops introduces the fundamentals of accessing, modelling, and analysing hydrological data and approaches. Each session is designed to build practical skills through guided exercises and additional resources. Below you will find brief summaries of each workshop, along with links to the corresponding resources that we will explore together during the training.
