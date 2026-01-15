@@ -71,7 +71,7 @@ This series of different interactive workshops is designed to introduce particip
 Follow-along session on accessing and retrieving remote hydrological datasets using Python, including common tools and protocols for working with data hosted on public or institutional servers. Hands-on session on exploring different types of hydroclimate datasets, including basic techniques for processing, visualisation, and analysis. Here is the link to ???.
 
 ### Theme 2: Water Resource Modelling
-**Facilitators:** *Nathan Rickards | Helen Baron*
+**Facilitators:** *Helen Baron | Nathan Rickards*
 
 An introduction to reservoir storage forecasting, with a hands on application of machine learning using a tree-based approach. Data selection, feature engineering and selection, hyper paramter tuning and model evaluation will all be explored in the context of building a robust machine learning tool to help forecast reservoir storage at a monthly-seasonal timestep. Here is the link to ???.
 
