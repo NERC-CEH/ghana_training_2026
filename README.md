@@ -73,7 +73,7 @@ Follow-along session on accessing and retrieving remote hydrological datasets us
 ### Theme 2: Water Resource Modelling
 **Facilitators:** *Helen Baron | Nathan Rickards*
 
-An introduction to reservoir storage forecasting, with a hands on application of machine learning using a tree-based approach. Data selection, feature engineering and selection, hyper paramter tuning and model evaluation will all be explored in the context of building a robust machine learning tool to help forecast reservoir storage at a monthly-seasonal timestep. Here is the link to ???.
+An introduction to reservoir storage forecasting, with a hands-on application of machine learning using a tree-based data-driven approach. Data selection, feature engineering and selection, hyper parameter tuning and model evaluation will all be explored in the context of building a robust machine learning tool to help forecast reservoir storage at a monthly to seasonal timestep. Here is the link to ???.
 
 
 ### Theme 3: Seasonal Forecast Applications
