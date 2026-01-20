@@ -51,7 +51,7 @@ This series of interactive, hands-on workshops is designed to introduce particip
 | 14:00 - 15:30 | Workshop: Data analysis and visualisation | Workshop:  ML exploration (different models, ensemble forecasting and different reservoirs) | Workshop: Categorizing a Forecast Product for Enhanced Decision Making |
 | 15:30 - 16:00 | BREAK | BREAK | BREAK |
 | 16:00 - 17:00 | Q/A | Q/A | Q/A |
-| 18:00 - 21:00 | Free evening | DINNER | Free evening |
+| 18:00 - 21:00 | --- | DINNER | --- |
 
 
 ### Theme 1: Hydrological Datasets
