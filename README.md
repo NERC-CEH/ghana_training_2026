@@ -24,15 +24,16 @@ To run the training notebooks using *Google Colab*, follow these steps:
 1. **Log in to your Google account** and open [Google Colab](https://colab.research.google.com/).
 2. In Colab, go to **File > Open notebook**.
 3. Select the **GitHub** tab.
-4. Paste the URL of the specific notebook (ending in `.ipynb`) from this repository into the search bar.
-5. Click on the notebook you want to open.
+4. Paste the URL of the GitHub repository (NERC-CEH/ghana_hydro_training_2026) into the search bar.
+5. You will get the list of the notebooks (ending in `.ipynb`) within the repository.
+6. Click on the notebook you want to open.
 
 > **Important:** Before you start editing, make sure to **Save a copy to your own Google Drive**.
 
-6. Go to **File > Save a copy in Drive**. This will open a new tab with the title `Copy of <Notebook Name>`.
-7. You are now working on your own copy of the notebook, which you can rename if you choose.
-8. You can safely close the original (read-only) notebook tab and continue working on your personal copy.
-9. The copied notebook will be saved in your Google Drive and can be accessed anytime.
+7. Go to **File > Save a copy in Drive**. This will open a new tab with the title `Copy of <Notebook Name>`.
+8. You are now working on your own copy of the notebook, which you can rename if you choose.
+9. You can safely close the original (read-only) notebook tab and continue working on your personal copy.
+10. The copied notebook will be saved in your Google Drive and can be accessed anytime.
 
 ---
 
